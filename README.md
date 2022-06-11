@@ -3,7 +3,7 @@
 
 When the Roblox client is unfocused, this script will lower CPU & GPU usage therefore letting your PC rest.
 
-The way this works is whenever the window is unfocused, 3D Object Rendering Functions are disabled and the FPS cap is set to 0 and when the window gets focused again, the 3D Object Rendering Functions will be re-enabled and the FPS cap will be set to infinity.
+The way this works is whenever the window is unfocused, 3D Object Rendering Functions are disabled and the FPS cap is set to 1 and when the window gets focused again, the 3D Object Rendering Functions will be re-enabled and the FPS cap will be set to infinity.
 
 It is recommended that you put this script into your executor's **auto execute** *(autoexec)* folder.
 
